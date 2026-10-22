@@ -1,0 +1,5 @@
+Q1: 46aaa08be9f2ba627fc98e80d801aff32ab09f2d
+Q2: 3
+Q3: git pull — it fetches the teammate commit and merges it so your branch includes the remote history before pushing.
+Q4: No — .gitignore does not remove a file from Git history; revoke/rotate the password and remove the exposed secret from history.
+Q5: git branch -d old-fix; git push origin --delete old-fix
